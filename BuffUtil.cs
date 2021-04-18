@@ -662,3 +662,4 @@ namespace BuffUtil
         }
     }
 }
+}
