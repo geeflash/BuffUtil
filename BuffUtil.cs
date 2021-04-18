@@ -437,7 +437,6 @@ namespace BuffUtil
                     LogError($"Exception in {nameof(BuffUtil)}.{nameof(HandleSteelSkin)}: {ex.StackTrace}", 3f);
             }
             
-
         }
         private void HandlePlagueBearer()
         {
